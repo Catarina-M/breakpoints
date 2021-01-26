@@ -9,7 +9,7 @@
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
-@media\ (min-width: 1200px) {
+@media (min-width: 1200px) {
 /* larger than 1200px */
 	body {
 		background: #F4D03F;
